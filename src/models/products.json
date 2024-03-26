@@ -1,0 +1,41 @@
+[
+	{
+		"id": 1,
+		"code": "0001",
+		"title": "Samsung S24 ultra",
+		"description": "Samsung Galaxy S24 Ultra es un smartphone de alta gama lanzado en enero de 2024.",
+		"price": "3000000",
+		"thumbnail": [
+			"\\img\\Samsung S24 ultra.webp"
+		],
+		"stock": "5",
+		"status": true,
+		"category": "Smartphone"
+	},
+	{
+		"id": 2,
+		"code": "0002",
+		"title": "Samsung Z flip",
+		"description": "Samsung Galaxy Z Flip es un smartphone plegable de alta gama que causó sensación en el mercado.",
+		"price": "2000000",
+		"thumbnail": [
+			"\\img\\Samsung Z flip.png"
+		],
+		"stock": "5",
+		"status": true,
+		"category": "Smartphone"
+	},
+	{
+		"id": 3,
+		"code": "0003",
+		"title": "Iphone 15 Pro",
+		"description": "iPhone 15 Pro es un smartphone de alta gama lanzado por Apple en septiembre de 2023.",
+		"price": "4000000",
+		"thumbnail": [
+			"\\img\\iphone15pro.webp"
+		],
+		"stock": "5",
+		"status": true,
+		"category": "Smartphone"
+	}
+]
