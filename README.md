@@ -5,7 +5,7 @@
 ### 1. Clona el repositorio:
 
 ```bash
-git chttps://github.com/NaidixCoder/desafioCuatro
+git chttps://github.com/Facucabx/desafio4
 ```
 
 ### 2. Inicia Node
